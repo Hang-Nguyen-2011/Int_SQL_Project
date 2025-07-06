@@ -79,7 +79,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 ## Strategic Recommendations
 
 1. **Customer Value Optimization** (Customer Segmentation)
- - Launch VIP program for 12,372 high-value customers (66% revenue)
+   - Launch VIP program for 12,372 high-value customers (66% revenue)
    - Create personalized upgrade paths for mid-value segment ($66.6M → $135.4M opportunity)
    - Design price-sensitive promotions for low-value segment to increase purchase frequency
 
